@@ -31,79 +31,61 @@ const app = {
             name: "Anh Thôi Nhân Nhượng",
             singer: "Raftaar x Fortnite",
             path: "songs/ANH THÔI NHÂN NHƯỢNG.mp3",
-            image: "img/ndc.jpg"
+            image: "img/1.webp"
         },
         {
             name: "Boom Cha La Ka",
             singer: "Raftaar x Salim Merchant x Karma",
             path: "songs/Boom Cha La Ka.mp3",
-            image: "img/ndc.jpg"
+            image: "img/2.webp"
         },
         {
             name: "Bùa Yêu",
             singer: "Raftaar x Brobha V",
             path: "songs/Bùa Yêu.mp3",
-            image: "img/ndc.jpg"
+            image: "img/3.webp"
         },
         {
             name: "CHỜ ĐỢI CÓ ĐÁNG SỢ",
             singer: "Raftaar x Nawazuddin Siddiqui",
             path: "songs/CHỜ ĐỢI CÓ ĐÁNG SỢ.mp3",
-            image: "img/ndc.jpg"
+            image: "img/4.webp"
         },
         {
             name: "Em Còn Những Thiếu Sót",
             singer: "Raftaar",
             path: "songs/Em Còn Những Thiếu Sót.mp3",
-            image: "img/ndc.jpg"
+            image: "img/5.webp"
         },
         {
             name: "Em Ơi Cho Anh Thấy Đường Cong",
             singer: "Raftaar x kr$na",
             path: "songs/Em Ơi Cho Anh Thấy Đường Cong.mp3",
-            image: "img/ndc.jpg"
+            image: "img/6.webp"
         },
         {
             name: "Feel so cold",
             singer: "Raftaar x Harjas",
             path: "songs/Feel so cold.mp3",
-            image: "img/ndc.jpg"
-        },
-        {
-            name: "Full Mix Album ! Dj Slow Remix",
-            singer: "Raftaar x Harjas",
-            path: "songs/Full Mix Album ! Dj Slow Remix.mp3",
-            image: "img/ndc.jpg"
-        },
-        {
-            name: "FullTrack",
-            singer: "Raftaar x Harjas",
-            path: "songs/FullTrack.mp3",
-            image: "img/ndc.jpg"
+            image: "img/7.webp"
         },
         {
             name: "Gáng làm kiếm tiền lo cho cục vàng",
             singer: "Raftaar x Harjas",
             path: "songs/Gáng làm kiếm tiền lo cho cục vàng.mp3",
-            image: "img/ndc.jpg"
+            image: "img/8.webp"
         },
         {
             name: "Gọi tên em trong đêm",
             singer: "Raftaar x Harjas",
             path: "songs/Gọi tên em trong đêm.mp3",
-            image: "img/ndc.jpg"
+            image: "img/9.webp"
         },
         {
             name: "HỐI HẬN TRONG ANH X ĐÁNH MẤT EM REMIX TIKTOK",
             singer: "Raftaar x Harjas",
             path: "songs/HỐI HẬN TRONG ANH X ĐÁNH MẤT EM REMIX TIKTOK.mp3",
-            image: "img/ndc.jpg"
-        },
-        {
-            name: "Khi Xưa Đi Đâu Cũng Có Nhau Remix",
-            singer: "Raftaar x Harjas",
-            path: "songs/Khi Xưa Đi Đâu Cũng Có Nhau Remix.mp3",
-            image: "img/ndc.jpg"
+            image: "img/20.webp"
         },
     ],
     setConfig: function(key, value) {

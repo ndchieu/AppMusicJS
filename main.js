@@ -31,7 +31,7 @@ const app = {
             name: "Anh Thôi Nhân Nhượng",
             singer: "Raftaar x Fortnite",
             path: "songs/ANH THÔI NHÂN NHƯỢNG.mp3",
-            image: "img/1.webp"
+            image: "img/ndc.jpg"
         },
         {
             name: "Boom Cha La Ka",

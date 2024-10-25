@@ -29,64 +29,108 @@ const app = {
     // config: JSON.parse(localStorage.getItem(PlAYER_STORAGE_KEY)) || {},
     songs: [{
             name: "Anh Thôi Nhân Nhượng",
-            singer: "Raftaar x Fortnite",
+            singer: "NDChieu",
             path: "songs/ANH THÔI NHÂN NHƯỢNG.mp3",
             image: "img/ndc.jpg"
         },
         {
             name: "Boom Cha La Ka",
-            singer: "Raftaar x Salim Merchant x Karma",
+            singer: "NDChieu",
             path: "songs/Boom Cha La Ka.mp3",
             image: "img/2.webp"
         },
         {
             name: "Bùa Yêu",
-            singer: "Raftaar x Brobha V",
+            singer: "NDChieu",
             path: "songs/Bùa Yêu.mp3",
             image: "img/3.webp"
         },
         {
             name: "CHỜ ĐỢI CÓ ĐÁNG SỢ",
-            singer: "Raftaar x Nawazuddin Siddiqui",
+            singer: "NDChieu",
             path: "songs/CHỜ ĐỢI CÓ ĐÁNG SỢ.mp3",
             image: "img/4.webp"
         },
         {
             name: "Em Còn Những Thiếu Sót",
-            singer: "Raftaar",
+            singer: "NDChieu",
             path: "songs/Em Còn Những Thiếu Sót.mp3",
             image: "img/5.webp"
         },
         {
             name: "Em Ơi Cho Anh Thấy Đường Cong",
-            singer: "Raftaar x kr$na",
+            singer: "NDChieu",
             path: "songs/Em Ơi Cho Anh Thấy Đường Cong.mp3",
             image: "img/6.webp"
         },
         {
             name: "Feel so cold",
-            singer: "Raftaar x Harjas",
+            singer: "NDChieu",
             path: "songs/Feel so cold.mp3",
             image: "img/7.webp"
         },
         {
-            name: "Gáng làm kiếm tiền lo cho cục vàng",
-            singer: "Raftaar x Harjas",
-            path: "songs/Gáng làm kiếm tiền lo cho cục vàng.mp3",
-            image: "img/8.webp"
-        },
-        {
             name: "Gọi tên em trong đêm",
-            singer: "Raftaar x Harjas",
+            singer: "NDChieu",
             path: "songs/Gọi tên em trong đêm.mp3",
             image: "img/9.webp"
         },
         {
             name: "HỐI HẬN TRONG ANH X ĐÁNH MẤT EM REMIX TIKTOK",
-            singer: "Raftaar x Harjas",
+            singer: "NDChieu",
             path: "songs/HỐI HẬN TRONG ANH X ĐÁNH MẤT EM REMIX TIKTOK.mp3",
-            image: "img/20.webp"
+            image: "img/10.webp"
         },
+        {
+            name: "CÁNH HOA HÉO TÀN (ACV REMIX)",
+            singer: "NDChieu",
+            path: "songs/CÁNH HOA HÉO TÀN (ACV REMIX).mp3",
+            image: "img/8.webp"
+        },
+        {
+            name: "Gimme Gimme Gimme",
+            singer: "NDChieu",
+            path: "songs/Gimme Gimme Gimme.mp3",
+            image: "img/1.webp"
+        },
+        {
+            name: "Yêu Lại Từ Đầu",
+            singer: "NDChieu",
+            path: "songs/Yêu Lại Từ Đầu Remix.mp3",
+            image: "img/2.webp"
+        },
+        {
+            name: "Nếu Em Không Về",
+            singer: "NDChieu",
+            path: "songs/Nếu Em Không Về.mp3",
+            image: "img/3.webp"
+        },
+        {
+            name: "Nơi Vực Nơi Trời",
+            singer: "NDChieu",
+            path: "songs/NƠI VỰC NƠI TRỜI.mp3",
+            image: "img/4.webp"
+        },
+        {
+            name: "Ước Gì Đây Không Phải Là Ngày Cuối Cùng",
+            singer: "NDChieu",
+            path: "songs/Ước Gì Đây Không Phải Là Ngày Cuối Cùng.mp3",
+            image: "img/5.webp"
+        },
+        {
+            name: "CÔ ĐƠN TRÊN SOFA",
+            singer: "NDChieu",
+            path: "songs/CÔ ĐƠN TRÊN SOFA.mp3",
+            image: "img/6.webp"
+        },
+        {
+            name: "Lướt Sóng Đạp Mây ",
+            singer: "NDChieu",
+            path: "songs/Lướt Sóng Đạp Mây.mp3",
+            image: "img/7.webp"
+        },
+
+
     ],
     setConfig: function(key, value) {
         this.config[key] = value;
